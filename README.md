@@ -13,7 +13,7 @@
 
 **<p align = center>-> Who am i? <-</p>**
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=17&pause=200&color=F7F7F7&width=830&height=80&lines=I+am+a+West+beginner%2C+developer+and+graphic+designer+with+expertise+in+affinty photo+%26+affinity designer" alt="">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=17&pause=200&color=F7F7F7&width=830&height=80&lines=I+am+West+beginner%2C+developer+and+graphic+designer+with+expertise+in+affinty photo+%26+affinity designer" alt="">
 </p>
 
 
