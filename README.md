@@ -1,11 +1,27 @@
-<h1 align="center">Hi I am Lik West</h1>
-<h3 align="center">An junior developer,curently trying to become fullstack developer</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+**<p align = center>-> Skills <-</p>**
+<div>
+<p align = center>
+  <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt = "Python"/><a>
+  <img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt = "Javascript"/><a>
+  <img src = "https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" alt = "Affinity Designer"/><a>
+  <img src = "https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white" alt = "Affinity Photo"/><a>
+  <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "Figma"/><a>
+   
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h1></h1>
 
-Support 🙏
+**<p align = center>-> Who am i? <-</p>**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=17&pause=200&color=F7F7F7&width=830&height=80&lines=I+am+a+West+beginner%2C+developer+and+graphic+designer+with+expertise+in+affinty photo+%26+affinity designer" alt="">
+</p>
+
+
+<h1></h1>
+
+**<p align = center>-> Contact <-</p>**
+
+<p align = center><a href="https://discord.gg/ufU3Q25VGZ"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" alt="discord"></a>
+<a href="https://mail.google.com/mail/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=FFCE47AA&logo=Gmail&logoColor=FFFFFF&label=" alt="gmail"></a></p>
+
+</div>
